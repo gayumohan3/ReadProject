@@ -1,0 +1,11 @@
+.content-body{
+    min-height: 100%;
+    padding: 60px 1rem;
+    /* background: rgb(173, 173, 231); */
+    display: block;
+    background-image: url("../assets/images4.jpg");
+    /* background-color: darkslategray; */
+    background-size: cover;
+    background-color: chartreuse;
+   
+}
